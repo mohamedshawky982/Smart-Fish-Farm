@@ -1,0 +1,50 @@
+0000000000000000000000000000000000000000 28ca1dbd1fc8e3f6d3780ac1cddb8fde89fde5fe Mohamed Shawky <mohamedshawkym90@gmail.com> 1675435149 +0200	commit (initial): upload app files
+28ca1dbd1fc8e3f6d3780ac1cddb8fde89fde5fe cd155d92b5d2aa4eee305e21c9c0c109b6032d8f Mohamed Shawky <mohamedshawkym90@gmail.com> 1675455621 +0200	commit: handle login ui
+cd155d92b5d2aa4eee305e21c9c0c109b6032d8f 68f5a74d6c09f98c4e961a276207356f0d4a94c0 Mohamed Shawky <mohamedshawkym90@gmail.com> 1675455629 +0200	pull --tags origin master: Merge made by the 'ort' strategy.
+68f5a74d6c09f98c4e961a276207356f0d4a94c0 ea17175b51a885da1767bd416df4cd2dbab1f6c0 Mohamed Shawky <mohamedshawkym90@gmail.com> 1675709133 +0200	commit: handle some auth flow
+ea17175b51a885da1767bd416df4cd2dbab1f6c0 df9f22354796b78449d53b9187bffd7a1ebca5b3 Mohamed Shawky <mohamedshawkym90@gmail.com> 1675800091 +0200	commit: complete auth flow
+df9f22354796b78449d53b9187bffd7a1ebca5b3 ea7d3ed6f7001d10c1b6b99f882f8ae773771245 Mohamed Shawky <mohamedshawkym90@gmail.com> 1675856573 +0200	commit: add home screen an implement base modal and add farm modal
+ea7d3ed6f7001d10c1b6b99f882f8ae773771245 b88415897cdd35c47249e90284eea70d20b6cb7f Mohamed Shawky <mohamedshawkym90@gmail.com> 1675882566 +0200	commit: animate the base modal
+b88415897cdd35c47249e90284eea70d20b6cb7f 861fea470a22fea1a36bf1d495a8455667d40651 Mohamed Shawky <mohamedshawkym90@gmail.com> 1677088324 +0200	commit: update react native and add sensor details screen
+861fea470a22fea1a36bf1d495a8455667d40651 cf5d30c6573ababf95e25c8a3bb26ecb9202cdac Mohamed Shawky <mohamedshawkym90@gmail.com> 1677103098 +0200	commit: add monitoring screen
+cf5d30c6573ababf95e25c8a3bb26ecb9202cdac 3b95ec346402d8521a9dc0eb09fb836e8a23d384 Mohamed Shawky <mohamedshawkym90@gmail.com> 1677170285 +0200	commit: finish phase one and handle structure
+3b95ec346402d8521a9dc0eb09fb836e8a23d384 a7bf537abf1f76c955194619b74cb192da76b5ae Mohamed Shawky <mohamedshawkym90@gmail.com> 1677263928 +0200	commit: add error boundary
+a7bf537abf1f76c955194619b74cb192da76b5ae 3bed32acbab65995e4a894303266f2823696a448 Mohamed Shawky <mohamedshawkym90@gmail.com> 1677341175 +0200	pull --tags origin master: Fast-forward
+3bed32acbab65995e4a894303266f2823696a448 a7bf537abf1f76c955194619b74cb192da76b5ae Mohamed Shawky <mohamedshawkym90@gmail.com> 1677341217 +0200	checkout: moving from master to develop
+a7bf537abf1f76c955194619b74cb192da76b5ae 3bed32acbab65995e4a894303266f2823696a448 Mohamed Shawky <mohamedshawkym90@gmail.com> 1677341280 +0200	checkout: moving from develop to master
+3bed32acbab65995e4a894303266f2823696a448 9872712859f0a77347e406c35e27c0545344e248 Mohamed Shawky <mohamedshawkym90@gmail.com> 1677341356 +0200	commit: v1.0.0(1)
+9872712859f0a77347e406c35e27c0545344e248 4c2c1c88ef920ed0803f9d050b6100c7f8078d97 Mohamed Shawky <mohamedshawkym90@gmail.com> 1677341430 +0200	commit: update
+4c2c1c88ef920ed0803f9d050b6100c7f8078d97 37b1106bc33c7dbb6a3a8e84c59e1b65c00826f1 Mohamed Shawky <mohamedshawkym90@gmail.com> 1677341436 +0200	pull --tags origin master: Merge made by the 'ort' strategy.
+37b1106bc33c7dbb6a3a8e84c59e1b65c00826f1 5497d38f9e6f6b79e3e970d738f988f85c10a70e Mohamed Shawky <mohamedshawkym90@gmail.com> 1677341498 +0200	commit: v1.1.0(1)
+5497d38f9e6f6b79e3e970d738f988f85c10a70e 7aeca5a9cec463bac6fb6b9172f2c1ed3fbbf63a Mohamed Shawky <mohamedshawkym90@gmail.com> 1677411526 +0200	commit: test
+7aeca5a9cec463bac6fb6b9172f2c1ed3fbbf63a 7b11d33fb6f8bdae5526d2bd0c6bdb075a68681c Mohamed Shawky <mohamedshawkym90@gmail.com> 1677411705 +0200	commit: ...
+7b11d33fb6f8bdae5526d2bd0c6bdb075a68681c 3fd3ee548e0dd6a8a651ea64a201fdcc40c1f174 Mohamed Shawky <mohamedshawkym90@gmail.com> 1677411946 +0200	commit: update yaml
+3fd3ee548e0dd6a8a651ea64a201fdcc40c1f174 3c1eb35076aab7eec1a27c0c506489ddeca7b7fb Mohamed Shawky <mohamedshawkym90@gmail.com> 1677412209 +0200	commit: update1
+3c1eb35076aab7eec1a27c0c506489ddeca7b7fb cde9d6624b72123679ab358c608ba8432815973f Mohamed Shawky <mohamedshawkym90@gmail.com> 1677412555 +0200	commit: update 2
+cde9d6624b72123679ab358c608ba8432815973f e9a55b960e2aaa7334e6bb40911149eb8f377f18 Mohamed Shawky <mohamedshawkym90@gmail.com> 1677412769 +0200	commit: update jdx version
+e9a55b960e2aaa7334e6bb40911149eb8f377f18 6264f396fa5eb6f998cb67021878e0e825d152fd Mohamed Shawky <mohamedshawkym90@gmail.com> 1677413095 +0200	commit: update build android
+6264f396fa5eb6f998cb67021878e0e825d152fd ecb72f60a900cfd7167742f11df918b2bd0dbdc5 Mohamed Shawky <mohamedshawkym90@gmail.com> 1677413257 +0200	commit: >>
+ecb72f60a900cfd7167742f11df918b2bd0dbdc5 921b67a198b7e226a6b37bfca20114aadb5f35d6 Mohamed Shawky <mohamedshawkym90@gmail.com> 1677413571 +0200	commit: fix
+921b67a198b7e226a6b37bfca20114aadb5f35d6 3439fd3bafa8f720d171f38cfb987ae49e48b46c Mohamed Shawky <mohamedshawkym90@gmail.com> 1677413918 +0200	commit: 1
+3439fd3bafa8f720d171f38cfb987ae49e48b46c ddb880ff5eb77ecf67d33aa2e52716e3d5312754 Mohamed Shawky <mohamedshawkym90@gmail.com> 1677414055 +0200	commit: 2
+ddb880ff5eb77ecf67d33aa2e52716e3d5312754 f1863d624fa46a4eb71261956cac865385f4bae3 Mohamed Shawky <mohamedshawkym90@gmail.com> 1677414386 +0200	commit: Make gradlew executable
+f1863d624fa46a4eb71261956cac865385f4bae3 006d23056230f80268d8899f0db8e4fd1750a06a Mohamed Shawky <mohamedshawkym90@gmail.com> 1677414411 +0200	commit: 3
+006d23056230f80268d8899f0db8e4fd1750a06a bb371f8284abb40342a3d35f1415f9ae27a0b94a Mohamed Shawky <mohamedshawkym90@gmail.com> 1677415342 +0200	commit: update token
+bb371f8284abb40342a3d35f1415f9ae27a0b94a 0479248575e58d4206812394ecb0b8ad9ef17a97 Mohamed Shawky <mohamedshawkym90@gmail.com> 1677437831 +0200	commit: test
+0479248575e58d4206812394ecb0b8ad9ef17a97 a7bf537abf1f76c955194619b74cb192da76b5ae Mohamed Shawky <mohamedshawkym90@gmail.com> 1677438133 +0200	checkout: moving from master to develop
+a7bf537abf1f76c955194619b74cb192da76b5ae 0479248575e58d4206812394ecb0b8ad9ef17a97 Mohamed Shawky <mohamedshawkym90@gmail.com> 1677438158 +0200	rebase (start): checkout origin/master
+0479248575e58d4206812394ecb0b8ad9ef17a97 0479248575e58d4206812394ecb0b8ad9ef17a97 Mohamed Shawky <mohamedshawkym90@gmail.com> 1677438158 +0200	rebase (finish): returning to refs/heads/develop
+0479248575e58d4206812394ecb0b8ad9ef17a97 e35c95105e33d34556d0e82839221d7a5ed1e6ab Mohamed Shawky <mohamedshawkym90@gmail.com> 1677438751 +0200	commit: Fix
+e35c95105e33d34556d0e82839221d7a5ed1e6ab 9f31fc4c3bb6a864c47321381adb49db5d8677fc Mohamed Shawky <mohamedshawkym90@gmail.com> 1677439609 +0200	commit: again
+9f31fc4c3bb6a864c47321381adb49db5d8677fc dc390b1bebf590a9f8dcc1c3c0d15b07c448bba6 Mohamed Shawky <mohamedshawkym90@gmail.com> 1677439791 +0200	commit: zzz
+dc390b1bebf590a9f8dcc1c3c0d15b07c448bba6 b7295c855fd14d047e6bd6962b4cc6f053f582e5 Mohamed Shawky <mohamedshawkym90@gmail.com> 1677440391 +0200	commit: fix
+b7295c855fd14d047e6bd6962b4cc6f053f582e5 27ba70fce0ce493d591dc0a53eb81a2659377589 Mohamed Shawky <mohamedshawkym90@gmail.com> 1677441150 +0200	commit: remove group
+27ba70fce0ce493d591dc0a53eb81a2659377589 a9e62fb499ca18569220673728fba8668bc07676 Mohamed Shawky <mohamedshawkym90@gmail.com> 1677512062 +0200	commit: CICD
+a9e62fb499ca18569220673728fba8668bc07676 6af8fd261f98dd70a4fd00b660a178e4abaac20e Mohamed Shawky <mohamedshawkym90@gmail.com> 1677512902 +0200	commit: Develop build
+6af8fd261f98dd70a4fd00b660a178e4abaac20e 4f5e00bdd6818ff270bc51f592f9e9a93ba6fed9 Mohamed Shawky <mohamedshawkym90@gmail.com> 1677514814 +0200	commit: sign apk
+4f5e00bdd6818ff270bc51f592f9e9a93ba6fed9 45431044254d4fa1adab015e60b7c2e13b23de75 Mohamed Shawky <mohamedshawkym90@gmail.com> 1677515101 +0200	commit: upload key store
+45431044254d4fa1adab015e60b7c2e13b23de75 8f2b64527a0c51d18c0531d036b9bc9739df789c Mohamed Shawky <mohamedshawkym90@gmail.com> 1677515719 +0200	commit: Alias update
+8f2b64527a0c51d18c0531d036b9bc9739df789c d6022e8d523771eeb2d1078c57a342adb7c5093a Mohamed Shawky <mohamedshawkym90@gmail.com> 1677516320 +0200	commit: update Keystore
+d6022e8d523771eeb2d1078c57a342adb7c5093a dde341cb7e5b096c5fb5f2a7e2ea33b1d4422744 Mohamed Shawky <mohamedshawkym90@gmail.com> 1677517011 +0200	commit: test
+dde341cb7e5b096c5fb5f2a7e2ea33b1d4422744 b8ffeeed655b0eb26f47feae58f4f4ba00e8f97f Mohamed Shawky <mohamedshawkym90@gmail.com> 1677686287 +0200	commit: update
+b8ffeeed655b0eb26f47feae58f4f4ba00e8f97f 93b32bde592c1034ad43d1e1cec306060a194def Mohamed Shawky <mohamedshawkym90@gmail.com> 1678145924 +0200	commit: handle logo and edit ui

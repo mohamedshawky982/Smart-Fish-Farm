@@ -1,0 +1,16 @@
+0000000000000000000000000000000000000000 a7bf537abf1f76c955194619b74cb192da76b5ae Mohamed Shawky <mohamedshawkym90@gmail.com> 1677341217 +0200	branch: Created from origin/develop
+a7bf537abf1f76c955194619b74cb192da76b5ae 0479248575e58d4206812394ecb0b8ad9ef17a97 Mohamed Shawky <mohamedshawkym90@gmail.com> 1677438158 +0200	rebase (finish): refs/heads/develop onto 0479248575e58d4206812394ecb0b8ad9ef17a97
+0479248575e58d4206812394ecb0b8ad9ef17a97 e35c95105e33d34556d0e82839221d7a5ed1e6ab Mohamed Shawky <mohamedshawkym90@gmail.com> 1677438751 +0200	commit: Fix
+e35c95105e33d34556d0e82839221d7a5ed1e6ab 9f31fc4c3bb6a864c47321381adb49db5d8677fc Mohamed Shawky <mohamedshawkym90@gmail.com> 1677439609 +0200	commit: again
+9f31fc4c3bb6a864c47321381adb49db5d8677fc dc390b1bebf590a9f8dcc1c3c0d15b07c448bba6 Mohamed Shawky <mohamedshawkym90@gmail.com> 1677439791 +0200	commit: zzz
+dc390b1bebf590a9f8dcc1c3c0d15b07c448bba6 b7295c855fd14d047e6bd6962b4cc6f053f582e5 Mohamed Shawky <mohamedshawkym90@gmail.com> 1677440391 +0200	commit: fix
+b7295c855fd14d047e6bd6962b4cc6f053f582e5 27ba70fce0ce493d591dc0a53eb81a2659377589 Mohamed Shawky <mohamedshawkym90@gmail.com> 1677441150 +0200	commit: remove group
+27ba70fce0ce493d591dc0a53eb81a2659377589 a9e62fb499ca18569220673728fba8668bc07676 Mohamed Shawky <mohamedshawkym90@gmail.com> 1677512062 +0200	commit: CICD
+a9e62fb499ca18569220673728fba8668bc07676 6af8fd261f98dd70a4fd00b660a178e4abaac20e Mohamed Shawky <mohamedshawkym90@gmail.com> 1677512902 +0200	commit: Develop build
+6af8fd261f98dd70a4fd00b660a178e4abaac20e 4f5e00bdd6818ff270bc51f592f9e9a93ba6fed9 Mohamed Shawky <mohamedshawkym90@gmail.com> 1677514814 +0200	commit: sign apk
+4f5e00bdd6818ff270bc51f592f9e9a93ba6fed9 45431044254d4fa1adab015e60b7c2e13b23de75 Mohamed Shawky <mohamedshawkym90@gmail.com> 1677515101 +0200	commit: upload key store
+45431044254d4fa1adab015e60b7c2e13b23de75 8f2b64527a0c51d18c0531d036b9bc9739df789c Mohamed Shawky <mohamedshawkym90@gmail.com> 1677515719 +0200	commit: Alias update
+8f2b64527a0c51d18c0531d036b9bc9739df789c d6022e8d523771eeb2d1078c57a342adb7c5093a Mohamed Shawky <mohamedshawkym90@gmail.com> 1677516320 +0200	commit: update Keystore
+d6022e8d523771eeb2d1078c57a342adb7c5093a dde341cb7e5b096c5fb5f2a7e2ea33b1d4422744 Mohamed Shawky <mohamedshawkym90@gmail.com> 1677517011 +0200	commit: test
+dde341cb7e5b096c5fb5f2a7e2ea33b1d4422744 b8ffeeed655b0eb26f47feae58f4f4ba00e8f97f Mohamed Shawky <mohamedshawkym90@gmail.com> 1677686287 +0200	commit: update
+b8ffeeed655b0eb26f47feae58f4f4ba00e8f97f 93b32bde592c1034ad43d1e1cec306060a194def Mohamed Shawky <mohamedshawkym90@gmail.com> 1678145924 +0200	commit: handle logo and edit ui
